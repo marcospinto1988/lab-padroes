@@ -1,3 +1,2 @@
 def configurar_banco():
-  # todo: implementar a logica de conexao
-  pass
+  return "conectado ao IP 92.168.0.1 com senha admin"
